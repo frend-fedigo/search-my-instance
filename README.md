@@ -72,7 +72,8 @@ Search-My-Instance ist eine Google Chrome-Erweiterung, die deine Fediverse-Erfah
 
 1.  Markiere Text auf einer beliebigen Webseite oder klicke mit der rechten Maustaste auf einen Link.
 2.  Klicke mit der rechten Maustaste, um das Kontextmenü zu öffnen, und wähle "In meiner Instanz suchen".
-    ![{AC415F80-CE86-4BD4-BB1E-A17F58805EB2}](https://github.com/user-attachments/assets/8a8c5014-e2db-4731-be09-dfe05cc05201)
+   
+ ![{AC415F80-CE86-4BD4-BB1E-A17F58805EB2}](https://github.com/user-attachments/assets/8a8c5014-e2db-4731-be09-dfe05cc05201)
 
 3.  Die Suchergebnisse werden in einem neuen Tab auf deiner angegebenen Fediverse-Instanz angezeigt.
 
