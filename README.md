@@ -6,7 +6,7 @@ Search-My-Instance is a Google Chrome extension that enhances your Fediverse exp
 
 #  Installation
 
-1.  Clone this repository or download it as a ZIP file.
+1.  Clone this repository, download it as a ZIP file or download the extension file from here https://github.com/frend-fedigo/search-my-instance/releases/download/release/search-my-instance-release.crx
 2.  Open Chrome and navigate to `chrome://extensions/`.
 3.  Enable "Developer mode" located in the top right corner.
 4.  Click on "Load unpacked".
@@ -62,7 +62,7 @@ Search-My-Instance ist eine Google Chrome-Erweiterung, die deine Fediverse-Erfah
 
 ##  Installation
 
-1.  Klone dieses Repository oder lade es als ZIP-Datei herunter.
+1.  Klone dieses Repository, lade die ZIP datei runter oder lade die Chrome Erweiterung von hier https://github.com/frend-fedigo/search-my-instance/releases/download/release/search-my-instance-release.crx
 2.  Öffne Chrome und navigiere zu `chrome://extensions/`.
 3.  Aktiviere den "Entwicklermodus" in der oberen rechten Ecke.
 4.  Klicke auf "Entpackte Erweiterung laden".
