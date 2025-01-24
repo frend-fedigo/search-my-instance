@@ -1,0 +1,78 @@
+{
+  "contextMenuTitle": {
+    "message": "Search in my instance",
+    "description": "Title of the context menu item"
+  },
+  "settingsTitle": {
+    "message": "Settings",
+    "description": "Title of the settings page"
+  },
+  "instanceUrlLabel": {
+    "message": "Fediverse instance URL:",
+    "description": "Label for the instance URL input field"
+  },
+  "instanceUrlHint": {
+    "message": "Important: Enter the URL with <b>https://</b> at the beginning and a <b>/</b> at the end. Example: <code>https://fediverse.example/</code>",
+    "description": "Hint for the instance URL input field"
+  },
+  "urlHttpsOk": {
+    "message": "Starts with https://",
+    "description": "Status message when URL starts with https://"
+  },
+  "urlHttpsError": {
+    "message": "Missing https:// at the beginning",
+    "description": "Status message when URL is missing https://"
+  },
+  "urlSlashOk": {
+    "message": "Ends with /",
+    "description": "Status message when URL ends with /"
+  },
+  "urlSlashError": {
+    "message": "Missing / at the end",
+    "description": "Status message when URL is missing /"
+  },
+  "urlHostnameOk": {
+    "message": "Domain name recognized",
+    "description": "Status message when the domain name is recognized"
+  },
+  "urlHostnameError": {
+    "message": "Missing domain name between https:// and /",
+    "description": "Status message when the domain name is missing"
+  },
+  "languageSelectLabel": {
+    "message": "Language:",
+    "description": "Label for the language select field"
+  },
+  "optionSystem": {
+    "message": "System language",
+    "description": "Option for using the system language"
+  },
+  "optionGerman": {
+    "message": "German",
+    "description": "Option for using German language"
+  },
+  "optionEnglish": {
+    "message": "English",
+    "description": "Option for using English language"
+  },
+  "saveButton": {
+    "message": "Save",
+    "description": "Save button text"
+  },
+  "testButton": {
+    "message": "Test search",
+    "description": "Test button text"
+  },
+  "urlErrorMessage": {
+    "message": "Error: The URL must start with https://, end with /, and have something in between.",
+    "description": "Error message when the URL is invalid"
+  },
+  "settingsSaved": {
+    "message": "Settings saved.",
+    "description": "Message displayed when settings are saved"
+  },
+  "status": {
+    "message": "",
+    "description": "Status"
+  }
+}

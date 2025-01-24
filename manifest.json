@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "In meiner Instanz suchen",
+  "version": "0.2",
+  "description": "Sucht markierten Text oder Links in deiner Friendica-Instanz",
+  "default_locale": "de",
+  "icons": {
+    "16": "icon.png"
+  },
+  "permissions": [
+    "contextMenus",
+    "activeTab",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "options_page": "options.html"
+}
