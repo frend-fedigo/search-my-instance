@@ -1,4 +1,53 @@
-# Deutsche Anleitung weiter unten!
+# ENGLISH BELOW
+
+# Deutsch
+
+# Search-My-Instance
+
+Search-My-Instance ist eine Google Chrome-Erweiterung, die deine Fediverse-Erfahrung verbessert, indem sie dir ermöglicht, direkt über das Kontextmenü deines Browsers nach ausgewähltem Text oder Links auf deiner bevorzugten Fediverse-Instanz, wie z.B. Friendica, zu suchen.
+
+## Funktionen
+
+*   **Fediverse-Suche:** Nahtlose Suche nach Inhalten innerhalb deiner gewählten Fediverse-Instanz.
+*   **Instanz-Anpassung:** Einfaches Festlegen der URL deiner Fediverse-Instanz in den Optionen der Erweiterung.
+*   **Sprachunterstützung:** Bietet sowohl englische als auch deutsche Übersetzungen und erkennt automatisch die Sprache des Browsers für ein personalisiertes Erlebnis.
+*   **Benutzerfreundliche Konfiguration:** Einfache und intuitive Optionsseite für mühelose Einrichtung.
+
+##  Installation
+
+1.  Klone dieses Repository oder lade die Zip herunter https://github.com/frend-fedigo/search-my-instance/releases/download/release/search-my-instance-chrome-0.1.zip
+2.  Öffne Chrome und navigiere zu `chrome://extensions/`.
+3.  Aktiviere den "Entwicklermodus" in der oberen rechten Ecke.
+4.  Klicke auf "Entpackte Erweiterung laden" oder Drag & Drop der Zip Datei
+5.  Wähle das Verzeichnis, in dem du das Repository geklont oder die ZIP-Datei extrahiert hast.
+
+##  Verwendung
+
+1.  Markiere Text auf einer beliebigen Webseite oder klicke mit der rechten Maustaste auf einen Link.
+2.  Klicke mit der rechten Maustaste, um das Kontextmenü zu öffnen, und wähle "In meiner Instanz suchen".
+   
+ ![{AC415F80-CE86-4BD4-BB1E-A17F58805EB2}](https://github.com/user-attachments/assets/8a8c5014-e2db-4731-be09-dfe05cc05201)
+
+3.  Die Suchergebnisse werden in einem neuen Tab auf deiner angegebenen Fediverse-Instanz angezeigt.
+
+##  Konfiguration
+
+1.  Klicke auf das Erweiterungssymbol in der Symbolleiste deines Browsers.
+2.  Wähle "Optionen".
+3.  Gib die URL deiner Fediverse-Instanz ein (z. B. `https://fedigo.de/`). Stelle sicher, dass die URL mit `https://` beginnt und mit einem `/` endet.
+4.  Klicke auf "Speichern", um deine Einstellungen zu sichern.
+
+## Mitwirken
+
+Deine Beiträge sind willkommen! Wenn du Vorschläge hast, einen Fehler findest oder die Erweiterung verbessern möchtest, kannst du gerne Issues erstellen oder Pull Requests einreichen.
+
+## 📝 Lizenz
+
+Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die [LICENSE](LICENSE) Datei für Details.
+
+
+
+# English
 
 # Search-My-Instance
 
@@ -47,47 +96,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-# Deutsch
 
-# Search-My-Instance
-
-Search-My-Instance ist eine Google Chrome-Erweiterung, die deine Fediverse-Erfahrung verbessert, indem sie dir ermöglicht, direkt über das Kontextmenü deines Browsers nach ausgewähltem Text oder Links auf deiner bevorzugten Fediverse-Instanz, wie z.B. Friendica, zu suchen.
-
-## Funktionen
-
-*   **Fediverse-Suche:** Nahtlose Suche nach Inhalten innerhalb deiner gewählten Fediverse-Instanz.
-*   **Instanz-Anpassung:** Einfaches Festlegen der URL deiner Fediverse-Instanz in den Optionen der Erweiterung.
-*   **Sprachunterstützung:** Bietet sowohl englische als auch deutsche Übersetzungen und erkennt automatisch die Sprache des Browsers für ein personalisiertes Erlebnis.
-*   **Benutzerfreundliche Konfiguration:** Einfache und intuitive Optionsseite für mühelose Einrichtung.
-
-##  Installation
-
-1.  Klone dieses Repository oder lade die Zip herunter https://github.com/frend-fedigo/search-my-instance/releases/download/release/search-my-instance-chrome-0.1.zip
-2.  Öffne Chrome und navigiere zu `chrome://extensions/`.
-3.  Aktiviere den "Entwicklermodus" in der oberen rechten Ecke.
-4.  Klicke auf "Entpackte Erweiterung laden" oder Drag & Drop der Zip Datei
-5.  Wähle das Verzeichnis, in dem du das Repository geklont oder die ZIP-Datei extrahiert hast.
-
-##  Verwendung
-
-1.  Markiere Text auf einer beliebigen Webseite oder klicke mit der rechten Maustaste auf einen Link.
-2.  Klicke mit der rechten Maustaste, um das Kontextmenü zu öffnen, und wähle "In meiner Instanz suchen".
-   
- ![{AC415F80-CE86-4BD4-BB1E-A17F58805EB2}](https://github.com/user-attachments/assets/8a8c5014-e2db-4731-be09-dfe05cc05201)
-
-3.  Die Suchergebnisse werden in einem neuen Tab auf deiner angegebenen Fediverse-Instanz angezeigt.
-
-##  Konfiguration
-
-1.  Klicke auf das Erweiterungssymbol in der Symbolleiste deines Browsers.
-2.  Wähle "Optionen".
-3.  Gib die URL deiner Fediverse-Instanz ein (z. B. `https://fedigo.de/`). Stelle sicher, dass die URL mit `https://` beginnt und mit einem `/` endet.
-4.  Klicke auf "Speichern", um deine Einstellungen zu sichern.
-
-## Mitwirken
-
-Deine Beiträge sind willkommen! Wenn du Vorschläge hast, einen Fehler findest oder die Erweiterung verbessern möchtest, kannst du gerne Issues erstellen oder Pull Requests einreichen.
-
-## 📝 Lizenz
-
-Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die [LICENSE](LICENSE) Datei für Details.
