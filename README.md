@@ -4,7 +4,7 @@
 
 # Search-My-Instance
 
-Search-My-Instance ist eine Google Chrome-Erweiterung, die deine Fediverse-Erfahrung verbessert, indem sie dir ermöglicht, direkt über das Kontextmenü deines Browsers nach ausgewähltem Text oder Links auf deiner bevorzugten Fediverse-Instanz, wie z.B. Friendica, zu suchen.
+Search-My-Instance ist eine Chromium, die deine Fediverse-Erfahrung verbessert, indem sie dir ermöglicht, direkt über das Kontextmenü deines Browsers nach ausgewähltem Text oder Links auf deiner bevorzugten Fediverse-Instanz, wie z.B. Friendica, zu suchen.
 
 ## Funktionen
 
@@ -51,7 +51,7 @@ Dieses Projekt ist unter der MIT-Lizenz lizenziert - siehe die [LICENSE](LICENSE
 
 # Search-My-Instance
 
-Search-My-Instance is a Google Chrome extension that enhances your Fediverse experience by allowing you to quickly search for selected text, links or names on your preferred Fediverse instance, such as Friendica, directly from your browser's context menu.
+Search-My-Instance is a Chromium extension that enhances your Fediverse experience by allowing you to quickly search for selected text, links or names on your preferred Fediverse instance, such as Friendica, directly from your browser's context menu.
 
 #  Installation
 
